@@ -8,4 +8,4 @@ Proyecto TOTAL
 - [Hack 5](https://github.com/magahr/ciclo08_git_h_5.git) - HTML
 - [Hack 6](https://github.com/magahr/ciclo08_git_h_6.git) - HTML
 - [Hack 7](https://github.com/magahr/ciclo08_git_h_7.git) - HTML
-- [Hack 8](https://github.com/magahr/git_h-8) - HTML
+- [Hack 8](https://github.com/magahr/ciclo08_git_h_8.git) - HTML
